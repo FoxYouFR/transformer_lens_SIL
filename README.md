@@ -1,1 +1,1 @@
-"# TransformerLens Summer in the Lab Training" 
+# TransformerLens Summer in the Lab Training
